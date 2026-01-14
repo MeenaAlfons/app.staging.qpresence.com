@@ -1,0 +1,1 @@
+import{o as n}from"./chunk-QMGIS6GS-DqORk8pi.js";const t={container:{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",height:"100dvh"}};function i(){return n.jsx("div",{style:t.container,children:"Loading..."})}export{i as L};
