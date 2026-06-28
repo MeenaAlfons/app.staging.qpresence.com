@@ -1,0 +1,1 @@
+import{a as n,o as s}from"./chunk-QMGIS6GS-wcNxi2C2.js";import{aG as r}from"./index-P8Kh4Ty5.js";function a(t){return Object.keys(t).length===0}function c(t=null){const e=n.useContext(r);return!e||a(e)?t:e}const o=n.createContext("a"),i=({children:t,value:e})=>s.jsx(o.Provider,{value:e,children:t}),x=()=>n.useContext(o);export{i as L,x as a,c as u};

@@ -1,0 +1,1 @@
+import{o as r}from"./chunk-QMGIS6GS-wcNxi2C2.js";import{I as m}from"./index-P8Kh4Ty5.js";import{S as d}from"./SessionDialog-BjHCFBqm.js";function f({open:o,setOpen:s,predefinedProgram:a}){const[i,{}]=m();return r.jsx(d,{open:o,setOpen:s,predefinedProgram:a,onSave:async({name:n,programId:t,happensAt:e})=>{await i({name:n,programId:t,happensAt:e}).unwrap()}})}export{f as A};
