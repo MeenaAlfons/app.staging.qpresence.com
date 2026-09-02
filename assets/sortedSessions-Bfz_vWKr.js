@@ -1,0 +1,1 @@
+import{a as s}from"./chunk-QMGIS6GS-wcNxi2C2.js";const c=t=>{const[n,p]=s.useState([]);return s.useEffect(()=>{p([...t].sort((e,o)=>{const r=e.happensAt.localeCompare(o.happensAt);if(r!==0)return r;const a=e.name.localeCompare(o.name);return a!==0?a:e.id.localeCompare(o.id)}))},[t]),n};export{c as u};
