@@ -1,1 +1,0 @@
-import{o as n}from"./chunk-QMGIS6GS-0eKyeHO8.js";import{am as e}from"./index-DHOz3vi6.js";import{P as d}from"./ProgramDialog-gwylmJdT.js";function P({open:o,setOpen:r,predefinedWorkspace:a}){const[m,{}]=e();return n.jsx(d,{open:o,setOpen:r,predefinedWorkspace:a,onSave:async({name:t,workspaceId:s,startsAt:i})=>{await m({name:t,workspaceId:s,startsAt:i}).unwrap()}})}export{P as A};
